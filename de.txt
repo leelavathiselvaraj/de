@@ -1,2 +1,2 @@
 line 1 by me
-line 2 by you
+line 2 by me
